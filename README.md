@@ -3,3 +3,5 @@
 
 ### requirements
 - pip install customtkinter
+
+Author : Rakibul Hasan
